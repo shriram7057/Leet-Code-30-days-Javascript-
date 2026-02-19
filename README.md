@@ -1,14 +1,13 @@
 <!-- HERO IMAGE -->
-<table align="center" cellpadding="10" width="100%">
-  <tr>
+<div align="center" cellpadding="10" width="100%">
     <td align="center">
-      <img src="https://github.com/shriram7057/shriram7057/blob/main/Leetcode%2030%20Days%20Of%20JS%20ANi.gif?raw=true" width="550"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="180" style="margin-right: 40px;" />
+      <img src="https://skillicons.dev/icons?i=js" width="170" />
     </td>
-  </tr>
-</table>
+</div>
 
 <!-- TITLE -->
-<h1 align="center">🚀 LeetCode 30 Days of JavaScript Challenge</h1>
+<h1 align="center">🚀 LeetCode 30 Days of JavaScript Challenge⚡</h1>
 
 <table align="center" cellpadding="12" width="80%">
   <tr>
